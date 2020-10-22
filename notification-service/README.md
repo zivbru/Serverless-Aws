@@ -7,7 +7,7 @@
 ## Getting started
 
 ```
-cd YOUR_PROJECT_NAME
+cd notification-service
 npm install
 ```
 

@@ -7,7 +7,6 @@ This front-end application is provided as-is, as a part of the [Serverless Frame
 Clone this repository.
 
 ```
-git clone https://github.com/codingly-io/sls-course-frontend
 cd sls-course-auctions-frontent
 ```
 
